@@ -10,6 +10,10 @@
         <source>This is a string to modify</source>
         <target state="translated">This is a string to change</target>
       </trans-unit>
+      <trans-unit id="this.is_a.string_to.bork" resname="this.is_a.string_to.bork">
+        <source>This is a borked string (psyc)</source>
+        <target>This is a borked string (psyc)</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
