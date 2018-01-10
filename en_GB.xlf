@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="en.yml" target-language="en_GB">
     <body>
-      <trans-unit id="this.is_a.string_to.keep" resname="this.is_a.string_to.keep">
+      <trans-unit id="this.is_a.string_to.keep" resname="this.is_a.string_to.keep" approved="yes">
         <source>This is a string to keep</source>
-        <target>This is a string to keep</target>
+        <target state="translated">This is a string to keep</target>
       </trans-unit>
-      <trans-unit id="this.is_a.string_to.remove" resname="this.is_a.string_to.remove">
+      <trans-unit id="this.is_a.string_to.remove" resname="this.is_a.string_to.remove" approved="yes">
         <source>This is a string to remove</source>
-        <target>This is a string to remove</target>
+        <target state="translated">This is a string to remove</target>
       </trans-unit>
     </body>
   </file>
