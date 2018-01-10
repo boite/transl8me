@@ -4,3 +4,4 @@ this:
             keep: "This is a string to keep"
             change: "This is a string to modify"
             bork: "This is a borked string (psyc)"
+            remove: "This is a string to delete"

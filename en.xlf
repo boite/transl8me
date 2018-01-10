@@ -14,6 +14,10 @@
         <source>This is a borked string (psyc)</source>
         <target>This is a borked string (psyc)</target>
       </trans-unit>
+      <trans-unit id="this.is_a.string_to.remove" resname="this.is_a.string_to.remove">
+        <source>This is a string to delete</source>
+        <target>This is a string to delete</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

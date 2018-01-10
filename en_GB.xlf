@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="en.yml" target-language="en_GB">
     <body>
@@ -13,6 +13,10 @@
       <trans-unit id="this.is_a.string_to.bork" resname="this.is_a.string_to.bork">
         <source>This is a borked string (psyc)</source>
         <target>This is a borked string (psyc)</target>
+      </trans-unit>
+      <trans-unit id="this.is_a.string_to.remove" resname="this.is_a.string_to.remove">
+        <source>This is a string to delete</source>
+        <target>This is a string to delete</target>
       </trans-unit>
     </body>
   </file>
