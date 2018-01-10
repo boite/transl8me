@@ -1,0 +1,5 @@
+this:
+    is_a:
+        string_to:
+            keep: "This is a string to keep"
+            remove: "This is a string to remove"
