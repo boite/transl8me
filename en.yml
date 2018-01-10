@@ -3,5 +3,5 @@ this:
         string_to:
             keep: "This is a string to keep"
             change: "This is a string to modify"
-            bork: "This is a borked string (psyc)"
             bork_again: "This is a very borked string (psyc)"
+            translate: "This is a string to translatify"
