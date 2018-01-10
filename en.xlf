@@ -14,6 +14,10 @@
         <source>This is a borked string (psyc)</source>
         <target>This is a borked string (psyc)</target>
       </trans-unit>
+      <trans-unit id="this.is_a.string_to.bork_again" resname="this.is_a.string_to.bork_again">
+        <source>This is a very borked string (psyc)</source>
+        <target>This is a very borked string (psyc)</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
