@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="en.yml" target-language="en_GB">
     <body>
@@ -10,9 +10,9 @@
         <source>This is a string to modify</source>
         <target state="translated">This is a string to change</target>
       </trans-unit>
-      <trans-unit id="this.is_a.string_to.bork_again" resname="this.is_a.string_to.bork_again">
+      <trans-unit id="this.is_a.string_to.bork_again" resname="this.is_a.string_to.bork_again" approved="yes">
         <source>This is a very borked string (psyc)</source>
-        <target>This is a very borked string (psyc)</target>
+        <target state="translated">This is a very broken string (just kidding)</target>
       </trans-unit>
       <trans-unit id="this.is_a.string_to.translate" resname="this.is_a.string_to.translate">
         <source>This is a string to translatify</source>
