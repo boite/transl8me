@@ -2,3 +2,4 @@ this:
     is_a:
         string_to:
             keep: "This is a string to keep"
+            change: "This is a string to modify"

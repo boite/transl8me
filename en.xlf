@@ -6,6 +6,10 @@
         <source>This is a string to keep</source>
         <target>This is a string to keep</target>
       </trans-unit>
+      <trans-unit id="this.is_a.string_to.change" resname="this.is_a.string_to.change">
+        <source>This is a string to modify</source>
+        <target>This is a string to modify</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
