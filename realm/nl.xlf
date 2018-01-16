@@ -3,25 +3,25 @@
   <file source-language="nl" datatype="plaintext" original="peri22x.xml" target-language="en">
     <body>
       <group name="concepts">
-        <trans-unit id="peri22-dataelement-1" resname="name" extradata="zorgverlenerzorginstelling">
+        <trans-unit id="peri22-dataelement-1_name" resname="name" extradata="zorgverlenerzorginstelling">
           <source>Zorgverlener/Zorginstelling</source>
 	        <target>Zorgverlener/Zorginstelling</target>
         </trans-unit>
-        <trans-unit id="peri22-dataelement-1" resname="description" extradata="zorgverlenerzorginstelling">
+        <trans-unit id="peri22-dataelement-1_description" resname="description" extradata="zorgverlenerzorginstelling">
           <source>Persoon (met bijbehorende instelling) die verantwoordelijk of uitvoerder was voor de zorg van de patiënt en aanleveraar van de gegevens.</source>
           <target>Persoon (met bijbehorende instelling) die verantwoordelijk of uitvoerder was voor de zorg van de patiënt en aanleveraar van de gegevens.</target>
         </trans-unit>
-        <trans-unit id="peri22x-burgelijke_staat" resname="example" extradata="Burgelijke staat">
+        <trans-unit id="peri22x-burgelijke_staat_example" resname="example" extradata="Burgelijke staat">
           <source>Getrouwd</source>
           <target>Getrouwd</target>
         </trans-unit>
       </group>
       <group name="AB0BloodGroup">
-        <trans-unit id="112144000" resname="name" extradata="Blood group A (finding)">
+        <trans-unit id="112144000_name" resname="name" extradata="Blood group A (finding)">
           <source>A</source>
           <target>A</target>
         </trans-unit>
-        <trans-unit id="UNK" resname="name" extradata="Onbekend">
+        <trans-unit id="UNK_name" resname="name" extradata="Onbekend">
           <source>Onbekend</source>
           <target>Onbekend</target>
         </trans-unit>
