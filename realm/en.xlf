@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="nl" datatype="plaintext" original="peri22x.xml" target-language="en">
     <body>
@@ -8,28 +8,28 @@
             <context context-type="element x-concept">zorgverlenerzorginstelling</context>
           </context-group>
           <source>Zorgverlener/Zorginstelling</source>
-	        <target></target>
+	        <target/>
         </trans-unit>
         <trans-unit id="peri22-dataelement-1_description" resname="description" extradata="zorgverlenerzorginstelling">
           <context-group>
             <context context-type="element x-concept">zorgverlenerzorginstelling</context>
           </context-group>
           <source>Persoon (met bijbehorende instelling) die verantwoordelijk of uitvoerder was voor de zorg van de patiënt en aanleveraar van de gegevens.</source>
-          <target></target>
+          <target/>
         </trans-unit>
         <trans-unit id="peri22x-burgelijke_staat_example" resname="example" extradata="Burgelijke staat">
           <source>Getrouwd</source>
-          <target></target>
+          <target/>
         </trans-unit>
       </group>
       <group name="AB0BloodGroup">
         <trans-unit id="112144000_name" resname="name" extradata="Blood group A (finding)">
           <source>A</source>
-          <target></target>
+          <target/>
         </trans-unit>
         <trans-unit id="UNK_name" resname="name" extradata="Onbekend">
           <source>Onbekend</source>
-          <target></target>
+          <target/>
         </trans-unit>
       </group>
     </body>
