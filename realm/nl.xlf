@@ -7,7 +7,7 @@
           <context-group name="po-reference" purpose="information">
             <context context-type="sourcefile">concept-short-name: zorgverlenerzorginstelling</context>
           </context-group>
-          <note>Name of the concept group</note>
+          <note from="developer">Name of the concept group</note>
           <source>Zorgverlener/Zorginstelling</source>
 	        <target>Zorgverlener/Zorginstelling</target>
         </trans-unit>
@@ -15,7 +15,7 @@
           <context-group name="po-reference" purpose="information">
             <context context-type="sourcefile">concept-short-name: zorgverlenerzorginstelling</context>
           </context-group>
-          <note>Description of the concept group</note>
+          <note from="developer">Description of the concept group</note>
           <source>Persoon (met bijbehorende instelling) die verantwoordelijk of uitvoerder was voor de zorg van de patiënt en aanleveraar van de gegevens.</source>
           <target>Persoon (met bijbehorende instelling) die verantwoordelijk of uitvoerder was voor de zorg van de patiënt en aanleveraar van de gegevens.</target>
         </trans-unit>
