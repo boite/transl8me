@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="nl" datatype="plaintext" original="peri22x.xml" target-language="en">
+  <file source-language="nl" datatype="plaintext" original="peri22x.xml" target-language="fr">
     <body>
       <group name="concepts">
         <trans-unit id="peri22-dataelement-1_name" resname="name" extradata="zorgverlenerzorginstelling">
-          <context-group name="something" purpose="information">
+          <context-group name="po-reference" purpose="information">
             <context context-type="sourcefile">concept-short-name: zorgverlenerzorginstelling</context>
           </context-group>
           <note from="developer">Name of the concept group</note>
@@ -12,7 +12,7 @@
 	        <target/>
         </trans-unit>
         <trans-unit id="peri22-dataelement-1_description" resname="description" extradata="zorgverlenerzorginstelling">
-          <context-group name="something" purpose="information">
+          <context-group name="po-reference" purpose="information">
             <context context-type="sourcefile">concept-short-name: zorgverlenerzorginstelling</context>
           </context-group>
           <note from="developer">Description of the concept group</note>
@@ -21,16 +21,6 @@
         </trans-unit>
         <trans-unit id="peri22x-burgelijke_staat_example" resname="example" extradata="Burgelijke staat">
           <source>Getrouwd</source>
-          <target/>
-        </trans-unit>
-      </group>
-      <group name="AB0BloodGroup">
-        <trans-unit id="112144000_name" resname="name" extradata="Blood group A (finding)">
-          <source>A</source>
-          <target/>
-        </trans-unit>
-        <trans-unit id="UNK_name" resname="name" extradata="Onbekend">
-          <source>Onbekend</source>
           <target/>
         </trans-unit>
       </group>

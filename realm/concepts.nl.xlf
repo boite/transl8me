@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="nl" datatype="plaintext" original="peri22x.xml">
+    <body>
+      <group name="concepts">
+        <trans-unit id="peri22-dataelement-1_name" resname="name" extradata="zorgverlenerzorginstelling">
+          <source>Zorgverlener/Zorginstelling</source>
+        </trans-unit>
+        <trans-unit id="peri22-dataelement-1_description" resname="description" extradata="zorgverlenerzorginstelling">
+          <source>Persoon (met bijbehorende instelling) die verantwoordelijk of uitvoerder was voor de zorg van de patiënt en aanleveraar van de gegevens.</source>
+        </trans-unit>
+        <trans-unit id="peri22x-burgelijke_staat_example" resname="example" extradata="Burgelijke staat">
+          <source>Getrouwd</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

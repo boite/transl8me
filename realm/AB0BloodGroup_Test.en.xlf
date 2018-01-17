@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="nl" datatype="plaintext" original="peri22x.xml" target-language="en">
+    <body>
+      <group name="AB0BloodGroup">
+        <trans-unit id="112144000_name" resname="name" extradata="Blood group A (finding)">
+          <source>A</source>
+          <target/>
+        </trans-unit>
+        <trans-unit id="UNK_name" resname="name" extradata="Onbekend">
+          <source>Onbekend</source>
+          <target/>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
+
