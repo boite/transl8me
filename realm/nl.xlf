@@ -4,10 +4,16 @@
     <body>
       <group name="concepts">
         <trans-unit id="peri22-dataelement-1_name" resname="name" extradata="zorgverlenerzorginstelling">
+          <context-group>
+            <context context-type="element x-concept">zorgverlenerzorginstelling</context>
+          </context-group>
           <source>Zorgverlener/Zorginstelling</source>
 	        <target>Zorgverlener/Zorginstelling</target>
         </trans-unit>
         <trans-unit id="peri22-dataelement-1_description" resname="description" extradata="zorgverlenerzorginstelling">
+          <context-group>
+            <context context-type="element x-concept">zorgverlenerzorginstelling</context>
+          </context-group>
           <source>Persoon (met bijbehorende instelling) die verantwoordelijk of uitvoerder was voor de zorg van de patiënt en aanleveraar van de gegevens.</source>
           <target>Persoon (met bijbehorende instelling) die verantwoordelijk of uitvoerder was voor de zorg van de patiënt en aanleveraar van de gegevens.</target>
         </trans-unit>
